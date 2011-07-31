@@ -1,0 +1,5 @@
+"username","password","firstname","lastname","location","usertype","active","business"
+"admin@myhub.com","20eabe5d64b0e216796e834f52d61fd0b70332fc","John","Smith","Russia","Administrator","1","business1;business2;"
+"user@myhub.com","20eabe5d64b0e216796e834f52d61fd0b70332fc","Jecky","Terman","Canada","User","1","business1;"
+"power@myhub.com","20eabe5d64b0e216796e834f52d61fd0b70332fc","Angry","Bird","USA","PowerUser","1",""
+"noadmin@myhub.com","20eabe5d64b0e216796e834f52d61fd0b70332fc","Serega","Noadmin","Russia","User","1",""
